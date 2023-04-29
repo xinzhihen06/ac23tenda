@@ -50,3 +50,6 @@ if __name__ == '__main__':
     attack('192.168.1.1', 7329)
 ```
 
+##Author
+
+xiquan Deng
